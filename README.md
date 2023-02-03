@@ -21,7 +21,7 @@ Es posible revisar el historial de html mediante un enlace de OneDrive.
 ## Instrucciones para correrlo de forma local
 
 1. Instalar [Python 3.x+](https://www.python.org/downloads/)
-2. Crear un entorno virtual con `python -m venv venv`
+2. Crear un entorno virtual con `py -m venv venv`
 3. Instalar dependencias con `pip install -r requirements.txt`
 4. Rellenar las variables de entorno faltantes del archivo `.env`
 5. Correr el bot con `py ecci.py`
@@ -72,7 +72,7 @@ It is possible to review the html history through a OneDrive link.
 ## Instructions to run it locally
 
 1. Install [Python 3.x+](https://www.python.org/downloads/)
-2. Create a virtual environment with `python -m venv venv`
+2. Create a virtual environment with `py -m venv venv`
 3. Install dependencies with `pip install -r requirements.txt`
 4. Fill in the missing environment variables in the `.env` file
 5. Run the bot with `py ecci.py`
