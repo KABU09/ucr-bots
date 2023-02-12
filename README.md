@@ -4,6 +4,8 @@ Bots hechos inicialmente para uso personal, pero que pueden ser de utilidad para
 
 ## Horarios ECCI
 
+Fue creado dada la necesidad de estar al tanto de los cambios en los horarios publicados por la ECCI. Por ejemplo, si se abrió un grupo nuevo, se cerró otro o se modificó la hora de un grupo.
+
 Enlace para unirse al canal de Telegram [@horariosecci](https://t.me/horariosecci)
 
 Envía notificaciones sobre nuevos horarios publicados por la ECCI.
@@ -47,13 +49,13 @@ Es posible revisar el historial de html mediante un enlace de OneDrive.
 | TIME_BETWEEN_REQUESTS_IN_SECONDS | Tiempo entre peticiones| 20 |
 
 
-
-
 # UCR Bots (unofficial)
 
 Bots made initially for personal use, but that can be useful for others.
 
 ## ECCI Schedules
+
+It was created due to the need to keep up to date with changes in the schedules published by ECCI. For example, if a new group was opened, another was closed or the schedule of a group was modified.
 
 Link to join the Telegram channel [@horariosecci](https://t.me/horariosecci)
 
